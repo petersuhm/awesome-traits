@@ -2,7 +2,7 @@
 
 namespace AwesomeTraits;
 
-class MutatesFields
+trait MutatesFields
 {
     public function __get($name)
     {
