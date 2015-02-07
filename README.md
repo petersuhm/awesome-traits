@@ -1,2 +1,5 @@
-# awesome-traits
-Traits I use on Every. Single. Project.
+# Awesome Traits
+
+Traits:
+* MutatesFields
+* ResolvesDependencies
